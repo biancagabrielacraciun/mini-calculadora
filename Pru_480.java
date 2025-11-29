@@ -9,8 +9,7 @@ public class Pru_480 {
         int asignaturas, suspendidas, k; 
         double nota, suma, media; 
         String secuenciaDeNotas;
-        boolean aprobado;
-        boolean notaValida;
+        boolean aprobado, notaValida;
         
         secuenciaDeNotas = "";
         suma = 0;
